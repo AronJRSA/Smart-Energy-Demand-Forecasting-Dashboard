@@ -130,7 +130,7 @@ The Power BI dashboard transforms model outputs into business insights.
 
 This system enables:
 
-* Demand forecasting for energy providers
+
 * Better operational planning
 * Early detection of abnormal consumption patterns
 * Data-driven decision-making
@@ -144,7 +144,7 @@ This system enables:
 * Matplotlib / Seaborn
 * Power BI
 
----
+
 
 ##  Future Improvements
 
@@ -154,7 +154,7 @@ This system enables:
 * Advanced model tuning and validation
 * Interactive web dashboard (Streamlit)
 
----
+
 
 ##  Author
 
